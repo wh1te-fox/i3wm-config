@@ -1,15 +1,16 @@
 # i3 config
 
-Configuración personal para el gestor de ventanas i3.
-
 <p align="center">
   <img
   src="img/i3.png" 
   alt="captura" />
 </p>
 
+Configuración personal para el gestor de ventanas i3.
+
 ![Status](https://img.shields.io/badge/status-stable-red) ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![GitHub Repo stars](https://img.shields.io/github/stars/wh1te-fox/i3wm-config?style=social)
+
 
 ---
 
